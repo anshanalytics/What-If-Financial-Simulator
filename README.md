@@ -176,14 +176,9 @@ The dashboard helps users:
 The **What-If Simulator** adds a scenario-analysis layer that allows users to evaluate changes before making financial decisions.
 
 ---
-
 ## Dataset
 
-**Personal Finance Tracker Dataset — Kaggle**
-
-https://www.kaggle.com/datasets/khushikyad001/personal-finance-tracker-dataset/versions/1
-
-**Dataset Size:** 3,000 rows × 25 columns
+**Kaggle Data:** [Dataset](https://www.kaggle.com/datasets/khushikyad001/personal-finance-tracker-dataset/versions/1)
 
 ---
 
